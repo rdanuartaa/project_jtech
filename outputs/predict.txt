@@ -1,0 +1,4 @@
+Prediksi: grade B (99.99%)
+- grade A: 0.01%
+- grade B: 99.99%
+- reject: 0.00%
